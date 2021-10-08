@@ -161,3 +161,8 @@ fisher.test(table1)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+In conclusion we reject the null hypothesis because because there is definitely a link and correlatoion between race and attitude towards capital punishment. 
+
+Blacks oppose capital punishment, while other races and whites favor capital punishment. 
+
+The p value of 0.001598 is too low replicate the the resukts therefor, we must reject the null hypothesis. 
